@@ -97,7 +97,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9FZc6gnEWJcnSI5CrjKz-6" value="Dashboard người dùng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9FZc6gnEWJcnSI5CrjKz-6" value="Truy cập profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="221" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FZc6gnEWJcnSI5CrjKz-7" value="Cập nhật thông tin người dùng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
