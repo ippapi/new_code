@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="ATqdmzWeELwhIMq4261D">
-    <mxGraphModel dx="1240" dy="537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,13 +54,12 @@
         <mxCell id="9FZc6gnEWJcnSI5CrjKz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FZc6gnEWJcnSI5CrjKz-2" target="9FZc6gnEWJcnSI5CrjKz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9FZc6gnEWJcnSI5CrjKz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FZc6gnEWJcnSI5CrjKz-2" target="9FZc6gnEWJcnSI5CrjKz-8">
+        <mxCell id="9FZc6gnEWJcnSI5CrjKz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FZc6gnEWJcnSI5CrjKz-2" target="9FZc6gnEWJcnSI5CrjKz-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="167" y="354" />
-              <mxPoint x="167" y="620" />
-              <mxPoint x="545" y="620" />
-              <mxPoint x="545" y="457" />
+              <mxPoint x="167" y="629" />
+              <mxPoint x="643" y="629" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -88,12 +87,13 @@
         <mxCell id="9FZc6gnEWJcnSI5CrjKz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FZc6gnEWJcnSI5CrjKz-6" target="9FZc6gnEWJcnSI5CrjKz-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9FZc6gnEWJcnSI5CrjKz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FZc6gnEWJcnSI5CrjKz-6" target="9FZc6gnEWJcnSI5CrjKz-7">
+        <mxCell id="9FZc6gnEWJcnSI5CrjKz-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FZc6gnEWJcnSI5CrjKz-6" target="9FZc6gnEWJcnSI5CrjKz-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="251" />
-              <mxPoint x="340" y="620" />
-              <mxPoint x="643" y="620" />
+              <mxPoint x="337" y="251" />
+              <mxPoint x="337" y="505" />
+              <mxPoint x="546" y="505" />
+              <mxPoint x="546" y="457" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -101,10 +101,10 @@
           <mxGeometry x="205" y="221" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FZc6gnEWJcnSI5CrjKz-7" value="Cập nhật thông tin người dùng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="583" y="427" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FZc6gnEWJcnSI5CrjKz-8" value="Thanh toán giỏ hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="583" y="427" width="120" height="60" as="geometry" />
+          <mxGeometry x="583" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FZc6gnEWJcnSI5CrjKz-9" value="Xem danh sách sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387" y="427" width="120" height="60" as="geometry" />
